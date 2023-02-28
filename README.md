@@ -16,7 +16,7 @@ xlwt (1.3.0)
 
 ## 初次使用
 
-- 修改settings.py中的数据库配置
+- 修改settings.py中的数据库配置1111
 
 ![数据库配置](https://i.loli.net/2019/11/07/9rcA6tNgljCOnXb.png)
 
